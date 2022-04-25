@@ -9,11 +9,3 @@ package.xml
 **/.eslintrc.json
 
 # LWC Jest
-**/__tests__/**
-package.xml
-**profile
-# LWC configuration files
-**/jsconfig.json
-**/.eslintrc.json
-# LWC Jest
-**/__tests__/**
